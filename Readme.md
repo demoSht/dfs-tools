@@ -89,4 +89,4 @@ dfs-tools/
 └── clickable_element_detector.py  # Détecteur d'éléments cliquables
 ```
 ## Licence
-[À spécifier selon vos besoins]
+[TKT FRR]
